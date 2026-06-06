@@ -12,7 +12,7 @@ The first version is intentionally lightweight: it compiles standalone, demonstr
 
 Download the latest macOS DMG setup:
 
-[Download ChiefKit Studio for macOS](https://hnmlabs.com/download.php)
+[Download ChiefKit Studio for macOS](https://hnmlabs.com/downloads.php)
 
 ## Run
 
